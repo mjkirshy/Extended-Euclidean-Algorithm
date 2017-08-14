@@ -49,6 +49,6 @@ int main() {
 			cin >> var;
 		}
 	}
-	cout << "Goodbye Jeremy" << endl;
+	cout << "Goodbye " << endl;
 	return 0;
 }
